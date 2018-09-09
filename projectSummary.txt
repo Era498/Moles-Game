@@ -1,0 +1,6 @@
+My project will focus on recreating motherload in python.
+Its complexity will come from the buy/sell system, creating the map with elements becoming more common at different levels, and adding multiplayer.
+
+Update 1: Multiplayer doesn't really work right now, but everything else is working well.
+
+Update 2: I have switched focus from multiplayer and implemented a highscores list. I also added a boss fight for the endgame.

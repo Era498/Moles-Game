@@ -1,0 +1,1 @@
+Moles the Game is a copy/homage to the flash game motherload. It requires pygame to run. In order to start the game, execute the file "molesGame." The game should then start.

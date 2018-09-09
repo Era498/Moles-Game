@@ -1,0 +1,27 @@
+Wednesday 11/15
+
+5-7pm Played the game motherload, found example of motherload made in pygame, worked on competitive analysis
+
+Thursday 11/16
+
+5-6pm Finished competitive analysis
+
+Friday 11/17
+
+4-6pm Created mole object, messed with image loading, created ground, messed with pygame
+
+Saturday 11/18
+
+1130pm-12am Ran\read through dots code to try and understand sockets
+
+10am-12pm Worked on sockets
+
+Sunday 11/19
+
+10am-12pm worked on sockets
+
+3pm-5pm, 8-10pm created array of ground objects, created dig function, tried to debug sockets, created storyboard
+
+Monday 11/20
+
+3-4pm debugged dig function and created start screen, created time sheet
